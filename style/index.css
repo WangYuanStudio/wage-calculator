@@ -1,0 +1,10 @@
+.main{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.main .list-group-item .name h5{
+  float: left;
+}
+.main .list-group-item .del-worker{
+  float: right;
+}
